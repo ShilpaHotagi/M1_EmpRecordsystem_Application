@@ -1,9 +1,4 @@
-# M1_MiniProject_Application
-Employee Record Management System written in C programming language
+# Employee Record Management System
 
- ## milestone-1
- * Folder Structure 
- * idea 
- * Requirement
- * Design
- * test plan
+ ## Introduction
+  The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
