@@ -1,7 +1,5 @@
-Add all the Certificates we obtain
-
-* Sololearn
-* Cisco NDG Linux
-* Screenshots of Github learning
-* Screenshots of hackerearth points
+1 Sololearn
+2 Cisco NDG Linux
+3 Screenshots of Github learning
+4 Screenshots of hackerearth points
 

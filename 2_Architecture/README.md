@@ -1,7 +1,9 @@
-# Architecture
+# Design
 
-## Design
-* Structural
-* Behavioural
-    * Flowcharts
-    * Use case Diagrams
+## Structural
+
+    * Class Diagram
+
+## Behavioural
+
+    * Use case Diagram
