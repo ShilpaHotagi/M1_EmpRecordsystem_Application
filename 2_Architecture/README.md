@@ -2,7 +2,7 @@
 
 ## Structural
 
-    * Class Diagram
+    * Architecture 
 
 ## Behavioural
 

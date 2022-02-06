@@ -11,19 +11,18 @@
     * Exit 
 
 ## 4W's & 1H
-Who
+### Who
 User
 
-What
+### What
 Employee Record Management system is an application that enables users to create and store Employee Records.
 
-When
+### When
 When user wants to simplifies the task of maintain records.
 
-Where
+### Where
 Employee Management System is a distributed application, developed to maintain the details 
 of employees working in any organization.
 
-How
-The mannually booking, cancelling the tickes and other actions will be take more time and system needs more workers for these actions.
+### How
 users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
