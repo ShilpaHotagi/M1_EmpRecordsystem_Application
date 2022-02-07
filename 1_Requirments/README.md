@@ -46,7 +46,7 @@ of employees working in any organization.
 ### How
 users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
 
-##  High Level Requirements
+#  High Level Requirements
 * User can see all operations.
 - System should allow the user to make a choice between 1 to 5.
 + user shall be able to add employee records.
@@ -54,7 +54,7 @@ users can create and store Employee Records to performing operations such as ins
 - User shall be able to modify/edit employees record.
 + User shall be able to delete employees record.
 
-## Low Level Requirements
+# Low Level Requirements
 * User shall make a choice accoding to there requirements.
 - User has to modify a employee record to entering name ,age and BaseSalary.
 + User can view employee records with name,age and BaseSalary.  
