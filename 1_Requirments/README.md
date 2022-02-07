@@ -2,7 +2,7 @@
   The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
 
 ## Research
-  Employee Record Managament System Features
+  Employee Record Managament System Features.
 
 ## Features
 * Add Records    : For the Add Record, the user can add new employee information.
@@ -16,7 +16,7 @@
 - Better Performance.
 * Users friendly.
 + Be easy to operate. 
-* Easy to carry employee recordes.
+- Easy to carry employee recordes.
 
 ### Weakness
 * Frequent updates will be needed.
