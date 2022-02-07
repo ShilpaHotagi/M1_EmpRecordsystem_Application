@@ -10,25 +10,7 @@
 + Modify Records : For the Modify Records, the user can edit/modify employee Data.
 * Delete Records : For the Delete Records, the user can delete employee information.
 - Exit 
- 
-## SWOT Analysis
-### Strengths
-- Better Performance.
-* Users friendly.
-+ Be easy to operate. 
-- Easy to carry employee recordes.
-
-### Weakness
-* Frequent updates will be needed.
-- Need internet access.
-
-### Opportunities
-* Easy to expand. 
-- Add new features.
-
-### Threats
-* Competition
- 
+  
 ## 4W's & 1H
 ### Who
 User
@@ -46,6 +28,24 @@ of employees working in any organization.
 ### How
 users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
 
+## SWOT Analysis
+### Strengths
+- Better Performance.
+* Users friendly.
++ Be easy to operate. 
+- Easy to carry employee recordes.
+
+### Weakness
+* Frequent updates will be needed.
+- Need internet access.
+
+### Opportunities
+* Easy to expand. 
+- Add new features.
+
+### Threats
+* Competition
+
 #  High Level Requirements
 * User can see all operations.
 - System should allow the user to make a choice between 1 to 5.
@@ -59,4 +59,4 @@ users can create and store Employee Records to performing operations such as ins
 - User has to modify a employee record to entering name ,age and BaseSalary.
 + User can view employee records with name,age and BaseSalary.  
 * User can delete employee record to entering name ,age and BaseSalary.
-
+ 
