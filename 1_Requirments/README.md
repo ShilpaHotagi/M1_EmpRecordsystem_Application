@@ -51,8 +51,8 @@ users can create and store Employee Records to performing operations such as ins
 - System should allow the user to make a choice between 1 to 5.
 + user shall be able to add employee records.
 * User shall be able to view added records.
-+ User shall be able to modify/edit employees record.
-- User shall be able to delete employees record.
+- User shall be able to modify/edit employees record.
++ User shall be able to delete employees record.
 
 ### Low Level Requirements
 * User shall make a choice accoding to there requirements.
