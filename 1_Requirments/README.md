@@ -32,6 +32,7 @@
 * Have a good user interface 
 - Be easy to modify 6. Be expandable 
 
+
 ## 4W's & 1H
 ### Who
 User
@@ -50,5 +51,8 @@ of employees working in any organization.
 users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
 
 
+## SWOT
+
+![SWOT](https://user-images.githubusercontent.com/98829965/153246226-e447f324-a616-4c93-962c-9cdeda2ed981.jpg)
 
 
