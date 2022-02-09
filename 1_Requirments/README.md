@@ -2,7 +2,6 @@
   The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
 
 # Requirements
-
 ##  High Level Requirements
 - System should allow the user to make a choice between 1 to 5.
 + user shall be able to add employee records.
@@ -17,8 +16,8 @@
 * User can delete employee record to entering name ,age and BaseSalary. 
 
 
-## Research
-  Employee Record Managament System Features.
+# Research
+  Employee Record Managament System Features and Benifits.
 
 ## Features
 * Add Records    : For the Add Record, the user can add new employee information.
@@ -27,6 +26,13 @@
 * Delete Records : For the Delete Records, the user can delete employee information.
 - Exit 
   
+## Benifits
+* Satisfy the user requirements 
+- Be easy to understand by user and operator 
++ Be easy to operate 
+* Have a good user interface 
+- Be easy to modify 6. Be expandable 
+
 ## 4W's & 1H
 ### Who
 User
