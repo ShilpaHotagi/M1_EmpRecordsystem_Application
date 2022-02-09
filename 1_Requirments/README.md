@@ -1,5 +1,21 @@
-## Description
+# Description
   The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
+
+# Requirements
+
+##  High Level Requirements
+- System should allow the user to make a choice between 1 to 5.
++ user shall be able to add employee records.
+* User shall be able to view added records.
+- User shall be able to modify/edit employees record.
++ User shall be able to delete employees record.
+
+## Low Level Requirements
+* User shall make a choice accoding to there requirements.
+- User has to modify a employee record to entering name ,age and BaseSalary.
++ User can view employee records with name,age and BaseSalary.  
+* User can delete employee record to entering name ,age and BaseSalary. 
+
 
 ## Research
   Employee Record Managament System Features.
@@ -46,15 +62,3 @@ users can create and store Employee Records to performing operations such as ins
 ### Threats
 * Competition
 
-##  High Level Requirements
-- System should allow the user to make a choice between 1 to 5.
-+ user shall be able to add employee records.
-* User shall be able to view added records.
-- User shall be able to modify/edit employees record.
-+ User shall be able to delete employees record.
-
-## Low Level Requirements
-* User shall make a choice accoding to there requirements.
-- User has to modify a employee record to entering name ,age and BaseSalary.
-+ User can view employee records with name,age and BaseSalary.  
-* User can delete employee record to entering name ,age and BaseSalary. 
