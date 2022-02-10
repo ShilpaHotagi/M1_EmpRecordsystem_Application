@@ -2,6 +2,9 @@
 
 ## Structural
 
+   ![draw](https://user-images.githubusercontent.com/98829965/153379076-7e91edb0-31dc-4ffa-a936-cba9d61a594a.jpg)
+   
+
    ![Structural daigram](https://user-images.githubusercontent.com/98829965/152684138-469dfb49-7b82-4689-be07-34576ee0f26d.jpg)
    
    
