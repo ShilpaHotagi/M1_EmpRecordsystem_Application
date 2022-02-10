@@ -30,7 +30,8 @@
 - Be easy to understand by user and operator 
 + Be easy to operate 
 * Have a good user interface 
-- Be easy to modify 6. Be expandable 
+- Be easy to modify 
++ Be expandable 
 
 
 ## SWOT Analysis
