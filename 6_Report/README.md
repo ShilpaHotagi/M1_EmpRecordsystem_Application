@@ -78,6 +78,3 @@
 + Used functions to decrease dependency on main function
 - Printf statements have been placed only wherever necessary to avoid confusions
 * Created header file so that the fuctions can be used else where ever required without any difficulty
-
- 
-
