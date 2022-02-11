@@ -1,6 +1,6 @@
 /**
  * @file func.h
- * @author Shilpa
+ * @author Shilpa Hotagi
  * @brief 
  * @version 0.1
  * @date 2022-02-11
