@@ -12,6 +12,7 @@
 
 ### Features
 * Add Records    : For the Add Record, the user can add new employee information.
++ Search Records : For the Search Record, user can search any employee information using employee id.
 - List Records   : For the List Records, the user can List all the new employee added.
 + Modify Records : For the Modify Records, the user can edit/modify employee Data.
 * Delete Records : For the Delete Records, the user can delete employee information.
