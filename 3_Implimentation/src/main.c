@@ -24,9 +24,7 @@ int addrecord()
          printf("\nEnter Salary: ");
          scanf("%g",&e[key].salary);
          key++;
-         printf("\nDo You Want to add another record (y/n): ");
-         fflush(stdin);
-         scanf("%c",&another);
+         break;
      }
      return 0;
  }
@@ -34,7 +32,7 @@ int addrecord()
 int modifyrecord()
 {
     int i,id;
-    printf("Enter employee ID to delete the employee record\n");
+    printf("Enter employee ID to Modify the employee record\n");
     scanf("%d",&id);
     for(i=0;i<key;i++)
     {
@@ -77,7 +75,9 @@ int searchrecord()
 int displayrecord()
  {
      int i;
+     printf("\n************************************************************\n");
      printf("\n employee ID\temployee name\temployee age\temployee salary\n");
+     printf("\n*************************************************************\n");
      for(i=0;i<key;i++)
      {
           printf("\n%d\t\t %s\t\t %d\t\t %g\n",e[i].id,e[i].name,e[i].age,e[i].salary);
