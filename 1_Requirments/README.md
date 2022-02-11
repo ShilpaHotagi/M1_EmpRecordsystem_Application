@@ -20,12 +20,12 @@
 
 |ID	 |                       Description	                                            |     Status
 |----|------------------------------------------------------------------------------- |-----------------
-|LLR1|	This application will ask the user to make a choice between 1 to 6(choices)   |
-|1.Add record 2.Delete record 3.Search record 4.Display list 5.Modify record 6.Exit   |   Implemented
+|LLR1|	This application will ask the user to make a choice between 1 to 6(choices)   |   Implemented
+        1.Add 2.Delete 3.Search 4.Display 5.Modify  6.Exit                            |    
 |LLR2|	Application ask the user employee ID (for Deleting)                           |  	Implemented
-|LLR3| Application ask the user employee ID (for searching)	                          |    Implemented
-|LLR4|	Application ask the user employee ID (for Modifying)	                        |    Implemented
-|LLR5|	The user can exit from application by choosing 6	                            |    Implemented
+|LLR3| Application ask the user employee ID (for searching)	                          |   Implemented
+|LLR4|	Application ask the user employee ID (for Modifying)	                        |   Implemented
+|LLR5|	The user can exit from application by choosing 6	                            |   Implemented
 
 ## Research
 
