@@ -149,7 +149,8 @@ void UnityPrint(const char* string)
     }
 }
 /*-----------------------------------------------*/
-void UnityPrintLen(const char* string, const UNITY_UINT32 length)
+void UnityPrintLen(const char* string,
+		   const UNITY_UINT32 length)
 {
     const char* pch = string;
 
@@ -187,7 +188,8 @@ void UnityPrintLen(const char* string, const UNITY_UINT32 length)
 }
 
 /*-----------------------------------------------*/
-void UnityPrintNumberByStyle(const UNITY_INT number, const UNITY_DISPLAY_STYLE_T style)
+void UnityPrintNumberByStyle(const UNITY_INT number,
+			     const UNITY_DISPLAY_STYLE_T style)
 {
     if ((style & UNITY_DISPLAY_RANGE_INT) == UNITY_DISPLAY_RANGE_INT)
     {
@@ -272,7 +274,8 @@ void UnityPrintNumberUnsigned(const UNITY_UINT number)
 }
 
 /*-----------------------------------------------*/
-void UnityPrintNumberHex(const UNITY_UINT number, const char nibbles_to_print)
+void UnityPrintNumberHex(const UNITY_UINT number, 
+			 const char nibbles_to_print)
 {
     int nibble;
     char nibbles = nibbles_to_print;
@@ -298,9 +301,9 @@ void UnityPrintNumberHex(const UNITY_UINT number, const char nibbles_to_print)
 }
 
 /*-----------------------------------------------*/
-void UnityPrintMask(const UNITY_UINT mask, const UNITY_UINT number)
+void UnityPrintMask(const UNITY_UINT mask,const UNITY_UINT number)
 {
-    UNITY_UINT current_bit = (UNITY_UINT)1 << (UNITY_INT_WIDTH - 1);
+    UNITY_UINT current_bit=(UNITY_UINT)1 << (UNITY_INT_WIDTH - 1);
     UNITY_INT32 i;
 
     for (i = 0; i < UNITY_INT_WIDTH; i++)
@@ -412,7 +415,7 @@ void UnityPrintFloat(const UNITY_DOUBLE input_number)
             n_int = (UNITY_INT32)number;
             number -= (UNITY_DOUBLE)n_int;
 
-            while (n_int < min_scaled) { n_int *= 10; factor *= 10.0f; exponent--; }
+            while(n_int < min_scaled){ n_int *= 10; factor *= 10.0f; exponent--; }
 
             number *= factor;
         }
@@ -435,7 +438,7 @@ void UnityPrintFloat(const UNITY_DOUBLE input_number)
         }
 
         /* determine where to place decimal point */
-        decimals = ((exponent <= 0) && (exponent >= -(sig_digits + 3))) ? (-exponent) : (sig_digits - 1);
+        decimals = ((exponent <= 0) &&(exponent >= -(sig_digits + 3))) ? (-exponent) : (sig_digits - 1);
         exponent += decimals;
 
         /* truncate trailing zeroes after decimal point */
@@ -494,7 +497,8 @@ void UnityPrintFloat(const UNITY_DOUBLE input_number)
 #endif /* ! UNITY_EXCLUDE_FLOAT_PRINT */
 
 /*-----------------------------------------------*/
-static void UnityTestResultsBegin(const char* file, const UNITY_LINE_TYPE line)
+static void UnityTestResultsBegin(const char*file,
+				  const UNITY_LINE_TYPE line)
 {
 #ifdef UNITY_OUTPUT_FOR_ECLIPSE
     UNITY_OUTPUT_CHAR('(');
@@ -596,7 +600,8 @@ static void UnityAddMsgIfSpecified(const char* msg)
 }
 
 /*-----------------------------------------------*/
-static void UnityPrintExpectedAndActualStrings(const char* expected, const char* actual)
+static void UnityPrintExpectedAndActualStrings(const char* expected, 
+					       const char* actual)
 {
     UnityPrint(UnityStrExpected);
     if (expected != NULL)
@@ -1590,7 +1595,8 @@ static union
 #endif
 } UnityQuickCompare;
 
-UNITY_INTERNAL_PTR UnityNumToPtr(const UNITY_INT num, const UNITY_UINT8 size)
+UNITY_INTERNAL_PTR UnityNumToPtr(const UNITY_INT num, 
+				 const UNITY_UINT8 size)
 {
     switch(size)
     {
