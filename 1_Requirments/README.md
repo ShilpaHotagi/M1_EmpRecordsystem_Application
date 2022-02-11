@@ -12,6 +12,7 @@
 
 ### Features
 * Add Records    : For the Add Record, the user can add new employee information.
++ Search Records : For the Search Record, user can search any employee information using employee id.
 - List Records   : For the List Records, the user can List all the new employee added.
 + Modify Records : For the Modify Records, the user can edit/modify employee Data.
 * Delete Records : For the Delete Records, the user can delete employee information.
@@ -59,20 +60,19 @@
 
 ## 4W's & 1H
 ### Who
-User
+- All oraganization who has lot of employees and very challenging to maintain the records.
 
 ### What
-Employee Record Management system is an application that enables users to create and store Employee Records.
+* This project gives the opportunity to enter all the required information and deploy into the system easily it is an application that enables users to create and store Employee Records.
 
 ### When
-When user wants to simplifies the task of maintain records.
++ When user wants to simplifies the task of maintain records like As the business of the organisation increases number of employees increases.
 
 ### Where
-Employee Management System is a distributed application, developed to maintain the details 
-of employees working in any organization.
+- Employee Management System is a distributed application, developed to maintain the details of employees working in any organization because This problem is surfaced in all the organisation in the world.
 
 ### How
-users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
+* users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
   
 ## Best method followed
 + Used functions to decrease dependency on main function
