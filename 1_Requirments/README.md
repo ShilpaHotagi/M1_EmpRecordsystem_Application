@@ -2,6 +2,9 @@
   The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
 
 ## Requirements
+
+###  High Level Requirements
+
 |ID	 | Description	                                                    |    Status
 |-----|-----------------------------------------------------------------|---------------
 |HLR1|	This application allow user to choose the option between 1 to 6	|  Implemented
@@ -12,20 +15,20 @@
 |HLR6|	Allow the user to modify the employees record	                  |  Implemented
 |HLR7|	Allow the user to exit from the application	                    |  Implemented
 
-###  High Level Requirements
-- System should allow the user to make a choice between 1 to 5.
-+ user shall be able to add employee records.
-* User shall be able to view added records.
-- User shall be able to modify/edit employees record.
-+ User shall be able to delete employees record.
-
+ 
 ### Low Level Requirements
-* User shall make a choice accoding to there requirements.
-- User has to modify a employee record to entering name ,age and BaseSalary.
-+ User can view employee records with name,age and BaseSalary.  
-* User can delete employee record to entering name ,age and BaseSalary. 
+
+ID	|                       Description	                                            |     Status
+----|-------------------------------------------------------------------------------|-----------------
+LLR1|	This application will ask the user to make a choice between 1 to 6(choices)   |
+1.Add record 2.Delete record 3.Search record 4.Display list 5.Modify record 6.Exit  |   Implemented
+LLR2|	Application ask the user employee ID (for Deleting)                           |  	Implemented
+LLR3| Application ask the user employee ID (for searching)	                        |    Implemented
+LLR4|	Application ask the user employee ID (for Modifying)	                        |    Implemented
+LLR5|	The user can exit from application by choosing 6	                            |    Implemented
 
 ## Research
+
   Employee Record Managament System Features and Benifits.
 
 ### Features
