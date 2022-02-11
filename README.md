@@ -12,5 +12,5 @@
 |3_Implementation	   |     All the code is written here
 |4_TestPlanAndOutput	|   Documents with test plans and outputs
 |5_ImagesandVideos 	 | All the images and program execution video
-|6-Report            |          Generated Report
+|6_Report            |          Generated Report
  
