@@ -32,7 +32,7 @@ int addrecord()
 int modifyrecord()
 {
     int i,id;
-    printf("Enter employee ID to Modify the employee record\n");
+    printf("Enter employee ID to delete the employee record\n");
     scanf("%d",&id);
     for(i=0;i<key;i++)
     {
