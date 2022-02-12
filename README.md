@@ -21,7 +21,7 @@
 
 |Codiga	Codacy        |            Codacy Badge  
 |---------------------|---------------------------
-|                     |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)
+| https://api.codiga.io/project/30981/score/svg                    |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)
 
 
  
