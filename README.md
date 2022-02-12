@@ -27,4 +27,4 @@
 ## Resources
 
 * [Learning Resourses](https://www.sanfoundry.com/c-program-employee-record/)
-- ![geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
