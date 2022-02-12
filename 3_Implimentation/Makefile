@@ -1,4 +1,4 @@
- PROJECT_NAME = Employee_Record_System
+PROJECT_NAME = Employee_Record_System
 
 #All Source code file
 #Path to the header file
