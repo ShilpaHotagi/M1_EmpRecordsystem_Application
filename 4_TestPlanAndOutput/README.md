@@ -13,4 +13,8 @@
  |TC_08	   |      Delete record	        |   Enter Employee Id       |           Deleted                |               Deleted           | PASS
                                                                     
  
+ # Best Practices
  
+[] Checked all the possibilities of output
+[] Mentioned all the inputs for better understanding
+[] Presented in tabular form for easy understanding
