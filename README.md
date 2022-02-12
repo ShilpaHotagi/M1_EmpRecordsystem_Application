@@ -17,6 +17,12 @@
 |6_Report            |          Generated Report
 
 
+## Identifying features
++ Screen guides how to enter the details.
+- Very friendly interface.
+* No crashing happens so that work can be done without any breaks.
+
+
 ## About the Code
 
  |  Code Quality Score                                          |  Code Grade                                                   | Code Quality
