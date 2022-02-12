@@ -13,5 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: make Build
-      run: make Build -C 3_Implementation
+    - name: build
+      run: gcc main.c -o main.exe
+    - name: Run
+      run: ./main.exe
