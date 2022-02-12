@@ -20,7 +20,7 @@
 ![modified](https://user-images.githubusercontent.com/98829965/153696536-097610a2-5d6d-458b-b78c-bcc00ba36bff.png)
 
 
-## After Modified Record
+## After Modify Record
 
 ![after modified](https://user-images.githubusercontent.com/98829965/153696543-ac70d956-c952-4a09-9f48-35af3ec070b3.png)
 
@@ -35,6 +35,6 @@
 ![deleted](https://user-images.githubusercontent.com/98829965/153696568-864401b6-38d8-4133-bab1-c46184b359ab.png)
 
 
-## After Deleted Record
+## After Delete Record
 
 ![after dltd](https://user-images.githubusercontent.com/98829965/153696574-2662c0b3-2e0c-4d83-9f5d-aeacc63f4131.png)
