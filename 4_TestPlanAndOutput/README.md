@@ -15,6 +15,6 @@
  
  # Best Practices
  
-[] Checked all the possibilities of output
-[] Mentioned all the inputs for better understanding
-[] Presented in tabular form for easy understanding
+-[ ] Checked all the possibilities of output
+-[ ] Mentioned all the inputs for better understanding
+-[ ] Presented in tabular form for easy understanding
