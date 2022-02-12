@@ -19,9 +19,13 @@
 
 ## About the Code
 
-|Codiga	              |            Codacy  
-|---------------------|---------------------------
-| ![Codiga Badge](https://api.codiga.io/project/30981/score/svg)                             |[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)
+ ### Code Quality Score
+ ![Codiga Badge](https://api.codiga.io/project/30981/score/svg)      
+ 
+ ### Code Grade
  ![Codiga Badge](https://api.codiga.io/project/30981/status/svg)
+ 
+ ### Code Quality
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)
 
  
