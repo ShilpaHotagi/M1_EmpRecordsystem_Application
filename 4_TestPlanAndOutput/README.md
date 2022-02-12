@@ -1,16 +1,16 @@
  
-#TEST PLAN
+# TEST PLAN
 
- |TEST ID	 |          Description 	     |   INPUT DATA	             |     EXPECTED OUTPUT	             |  ACTUAL OUTPUT	                 |STATUS
+ |TEST ID	 |          Description 	     |   INPUT DATA	             |     EXPECTED OUTPUT	             |      ACTUAL OUTPUT	             | STATUS
  |---------|----------------------------|---------------------------|--------------------------------- |---------------------------------|-----------
- |TC_01	   |    for entering Id	        | enter Id: 01              |   	      01                      |         01	                     | PASS
- |TC_02	   |      for entering name	    |   enter name: XYZ	        |             XYZ	                 |           XYZ	                  | PASS
- |TC_03	   |      for entering age	     |   enter age: 23           |           	23	                   |           23	                   | PASS
- |TC_04	   |      for entering salary	  |   enter salary: 10000	    |           10000                  |   	      10000	                 | PASS
- |TC_05	   |      for listing record	   |   01 XYZ 23 10000	        |     01 XYZ 23 10000              |	    01 XYZ 23 10000             | PASS
- |TC_06	   |      for deleting record	  |    Id from the user	      |           deleted  	             |      deleted	                   | PASS
- |TC_07	   |      for searching record	 |    Id from the user	      |     displayed All Records	       |    displayed	All Records	       | PASS
- |TC_08	   |      for modifying record	 |    Id from the user	      |   modified detailes should       |    modified detailes are updated| PASS
-                                                                    |   be recorded	 
+ |TC_01	   |      Enter Id	             |    Enter Id: 01           |   	        01                    |             01	                 |  PASS
+ |TC_02	   |      Enter Name	           |   Enter Name : Shilpa	    |          Shilpa                  |            Shilpa               |  PASS
+ |TC_03	   |      Enter Age	            |   Enter age: 22           |            23	                   |              22	                |  PASS
+ |TC_04	   |      Entering Salary	      |   Enter salary: 10000	    |           10000                  |   	         10000	              |  PASS
+ |TC_05	   |      Modify Record	        |   Enter Employee Id       |  Modified detailes are updated   |	 Modified detailes are updated  |  PASS
+ |TC_06	   |      Search Record	        |   Enter Employee Id       |    Display Searched ID Data	     |     Display Searched ID Data	   |  PASS
+ |TC_07	   |      Display Record	       |   Enter Display Choice   	|      Displayed All Records	      |       Displayed All Records		   |  PASS
+ |TC_08	   |      Delete record	        |   Enter Employee Id       |           Deleted                |               Deleted           | PASS
+                                                                    
  
  
