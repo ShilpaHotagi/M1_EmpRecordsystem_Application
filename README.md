@@ -3,8 +3,8 @@
  ## Introduction
   The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
   
-       It is simple to understand and can be used by anyone who is not even familiar with simple employees system. It is user friendly and just asks the user to follow step by step operations by giving him few options. It is fast and can perform many operations of a company.
-  
+ It is simple to understand and can be used by anyone who is not even familiar with simple employees system. It is user friendly and just asks the user to follow step by step operations by giving him few options like Add, Modify, Search, Display, Delete Records.  
+ 
 ## Folder Structure
 
 |Folder	             |            Description            
