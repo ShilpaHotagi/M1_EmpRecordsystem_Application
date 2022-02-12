@@ -106,7 +106,7 @@
 * Followed the exact symbols to make the understanding easier.
 + Detailed explanation in Low level Behavioural and Structural Diagrams.
 
-## Folder Structure
+## Implimentation Folder Structure
 
 |Folder      |	                          Description                     |
 |------------|------------------------------------------------------------|
