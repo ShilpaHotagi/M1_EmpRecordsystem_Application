@@ -26,4 +26,4 @@
   
 ## Resources
 
-* [Reference](https://www.sanfoundry.com/c-program-employee-record/)
+* [Learning Resourses](https://www.sanfoundry.com/c-program-employee-record/)
