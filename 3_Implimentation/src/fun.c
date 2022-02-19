@@ -1,3 +1,13 @@
+/**
+ * @file fun.c
+ * @author  Shilpa Hotagi
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-19
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "fun.h"
 int key=0;
 int addrecord()
