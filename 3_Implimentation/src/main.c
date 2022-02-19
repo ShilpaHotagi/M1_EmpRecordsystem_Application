@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author  Shilpa Hotagi
+ * @brief 
+ * @version 0.1
+ * @date 2022-02-19
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include "fun.h" 
 #include<stdio.h>
 int main()
