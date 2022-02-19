@@ -30,8 +30,10 @@
  |![Codiga Badge](https://api.codiga.io/project/30981/score/svg)|![Codiga Badge](https://api.codiga.io/project/30981/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)   
  
  
-## Resources
+## References 
 
 * [Learning Resourses](https://www.sanfoundry.com/c-program-employee-record/)
 - [Geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
++ [MiniProject_Template](https://github.com/stepin654321/MiniProject_Template)
+* [Tool](https://app.diagrams.net/)
 
