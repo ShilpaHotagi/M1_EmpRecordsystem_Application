@@ -1,7 +1,7 @@
 # Description
   The main aim of this project is to develop software application for Employee Record Management System.it enables users to create and store Employee Records and This project simplifies the task of maintain records because of its user friendly nature.
   
-## Identifying features
+## Identifying Features
 + Screen guides how to enter the details.
 - Very friendly interface.
  * No crashing happens so that work can be done without any breaks.
@@ -18,7 +18,7 @@
 * Delete Records : For the Delete Records, the user can delete employee information.
 - Exit 
   
-### Benifits
+### Benefits
 * Satisfy the user requirements 
 - Be easy to understand by user and operator 
 + Be easy to operate 
@@ -74,7 +74,7 @@
 ### How
 * users can create and store Employee Records to performing operations such as insert, edit, delete the data from the file.
   
-## Best method followed
+## Best Methods Followed
 + Used functions to decrease dependency on main function
 - Printf statements have been placed only wherever necessary to avoid confusions
 * Created header file so that the fuctions can be used else where ever required without any difficulty
