@@ -25,9 +25,9 @@
 
 ## About the Code
 
- |  Code Quality Score                                          |  Code Grade                                                   | Code Quality    |Dynamic Code Analysis Valgrind 
- |--------------------------------------------------------------|---------------------------------------------------------------|-----------------|------------------------------
- |![Codiga Badge](https://api.codiga.io/project/30981/score/svg)|![Codiga Badge](https://api.codiga.io/project/30981/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)|[![Dynamic Code Analysis Valgrind](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/CodeQuality.yml)
+ |  Code Quality Score                                          |  Code Grade                                                   | Code Quality    |Dynamic Check  |CPP Check
+ |--------------------------------------------------------------|---------------------------------------------------------------|-----------------|---------------|---------
+ |![Codiga Badge](https://api.codiga.io/project/30981/score/svg)|![Codiga Badge](https://api.codiga.io/project/30981/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)|[![Dynamic Check](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/CodeQuality.yml) | [![Cppcheck](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/Static-check.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/Static-check.yml)
  
  
 ## References 
