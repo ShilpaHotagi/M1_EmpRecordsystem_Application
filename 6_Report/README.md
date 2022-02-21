@@ -20,7 +20,7 @@
 * Delete Records : For the Delete Records, the user can delete employee information.
 - Exit 
   
-### Benifits
+### Benefits
 * Satisfy the user requirements 
 - Be easy to understand by user and operator 
 + Be easy to operate 
