@@ -9,6 +9,9 @@
 |Documentaion |	             Doxyfile and Makefile                       |
 
 ## Make File 
-![Screenshot (547)](https://user-images.githubusercontent.com/98829965/155936672-58a49149-566d-45bd-bf2e-47373f7dfd52.png)
-![Screenshot (548)](https://user-images.githubusercontent.com/98829965/155936686-82144e57-8753-49e2-b745-c08ccf10f90e.png)
+![Screenshot (568)](https://user-images.githubusercontent.com/98829965/155937246-43c62f49-eb11-4e65-a5bd-916d3b15e36e.png)
+
+
+![Screenshot (569)](https://user-images.githubusercontent.com/98829965/155937282-2d813460-0322-4a77-a8b9-9c5472cffaba.png)
+
 
