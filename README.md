@@ -17,7 +17,7 @@
 |6_Report            |          Generated Report
 
 
-## Identifying features
+## Identifying Features
 + Screen guides how to enter the details.
 - Very friendly interface.
 * No crashing happens so that work can be done without any breaks.
@@ -25,7 +25,7 @@
 
 ## About the Code
 
- |  Codiga                 | Codacy   |Cpp Check |CI /build|Git Inspector   |Dynamic Code Analysis          
+ |  Codiga                 | Codacy   |Cpp Check |CI /build|Git Inspector   |Dynamic Code Analysis         
  |-------------------------|----------|----------|---------|----------------|----------------------
  |![Codiga Badge](https://api.codiga.io/project/30981/score/svg) ![Codiga Badge](https://api.codiga.io/project/30981/status/svg)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/66a7c1527a704317969291d498d72903)](https://www.codacy.com/gh/ShilpaHotagi/M1_EmpRecordsystem_Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ShilpaHotagi/M1_EmpRecordsystem_Application&amp;utm_campaign=Badge_Grade)|[![Cppcheck](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/Cppcheck.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/Cppcheck.yml)|[![CI](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/CI.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/CI.yml)|[![Contribution Check-Git Inspector](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/gitinspector.yml)|[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/Dynamic-Code-Analysis.yml/badge.svg)](https://github.com/ShilpaHotagi/M1_EmpRecordsystem_Application/actions/workflows/Dynamic-Code-Analysis.yml)|  
  
