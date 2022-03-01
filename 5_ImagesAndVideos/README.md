@@ -5,6 +5,9 @@
 ![menu](https://user-images.githubusercontent.com/98829965/153696441-7acab15a-1225-4ace-a099-552f1013bc87.png)
 
 
+![Screenshot (569)](https://user-images.githubusercontent.com/98829965/155937282-2d813460-0322-4a77-a8b9-9c5472cffaba.png)
+
+
 ## Adding Record
 
 ![Adding 1 emp](https://user-images.githubusercontent.com/98829965/153696460-200bd491-f219-4bec-acf2-c1d1468b3a37.png)
